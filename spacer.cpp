@@ -10,7 +10,7 @@
 int main()
 {
     //carico le sequenze
-    std::string dataset = "./DuoHash/example/TestInputFile/paired_small.txt";
+    std::string dataset = "paired_small.txt";
 	std::vector<std::string> sequences;
 	if (!loadFile(dataset, sequences))
         std::exit(1);
