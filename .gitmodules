@@ -1,6 +1,6 @@
 [submodule "DuoHash"]
 	path = DuoHash
-	url = https://github.com/leonardoGemin/DuoHash
+	url = git@github.com:danibugo/DuoHash.git
 [submodule "KMC"]
 	path = KMC
-	url = https://github.com/refresh-bio/KMC
+	url = git@github.com:danibugo/KMC.git
